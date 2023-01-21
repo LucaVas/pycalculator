@@ -47,6 +47,8 @@ Finally, you are asked if you wish to see the history in your terminal window.
 
 
 #### History of the project:
+This is my final project of the CS50P course released by Harvard University. In the following part, I would like to sum up how the project idea was born, and what were the milestones.
+
 During the planning phase, trying to decide what kind of project could summarize my CS50P journey, I decided to conduct more research about GUI environment in Python. 
 With some experience in front-end web developement, I felt that CS50P gave me a lot in terms of back-end and data manipulation. Nevertheless, I felt that I missed the user experience given by a front-end app, and expecially the satisfaction given by seing your application take life.
 Almost parallely, I understood that my understanding of OOP was still very fragile. I wanted to find a project where I could strengthen my knowledge in OOP, and especially in the use of classes.
