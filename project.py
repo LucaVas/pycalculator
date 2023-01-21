@@ -35,7 +35,6 @@ class InitWindow(QWidget):
     def initUI(self):
         self.center()
         self.resize(self.width, self.height)
-        # self.setGeometry(self.left, self.top, self.width, self.height)
         self.setWindowIcon(QtGui.QIcon(self.iconName))
         self.setWindowTitle(self.title)
 
@@ -191,7 +190,6 @@ class Calculator(QWidget):
         self.center()
         self.setMaximumWidth(400)
         self.resize(self.width, self.height)
-        # self.setGeometry(self.left, self.top, self.width, self.height)
         self.setWindowIcon(QtGui.QIcon(self.iconName))
         self.setWindowTitle(self.title)
         self.setStyleSheet(f"background-color: {self.color}")
